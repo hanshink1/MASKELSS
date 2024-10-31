@@ -1,0 +1,8 @@
+freezegun
+pytest
+pytest-cov
+pytest-flakes
+pytest-mock
+pytest-pycodestyle
+pytest-qt
+pytest-xdist
